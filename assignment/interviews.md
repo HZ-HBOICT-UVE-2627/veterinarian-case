@@ -1,8 +1,6 @@
 # Stakeholder Interview Transcripts
 
-**Veterinary Practice Information System — Requirements Analysis Exercise**
-
-*Software Engineering Bachelor Programme*
+**Veterinary Practice Information System — Interview transcripts**
 
 | **Course** | Requirements Engineering |
 | --- | --- |
