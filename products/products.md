@@ -1,6 +1,6 @@
 # Products
 
-The following products can be found:
+The following products can be found in this folder:
 
 - System context diagram
 - Persona
